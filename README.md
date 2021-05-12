@@ -8,7 +8,7 @@
 * JavaScript
 
 ## 🔗 Link of Project
-[ 🌎 Portfolio](https://) - Project online on GitHub Pages
+[ 🌎 Portfolio](https://kant146.github.io/Kant-Portfolio-Website/) - Project online on GitHub Pages
 
 ## 🖼️ Images of Project
 
