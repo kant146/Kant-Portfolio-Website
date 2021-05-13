@@ -13,17 +13,17 @@
 ## 🖼️ Images of Project
 
 <div align="center">
-   <img src="./images/img1.png" /> 
+   <img src="img1.png" /> 
    </br>
-   <img src="./images/img2.png"/>
+   <img src="img2.png"/>
    </br> 
-   <img src="./images/img3.png" /> 
+   <img src="img3.png" /> 
    </br>
-   <img src="./images/img4.png" /> 
+   <img src="img4.png" /> 
    </br>
-   <img src="./images/img5.png" />  
+   <img src="img5.png" />  
    </br> 
-   <img src="./images/img6.png" /> 
+   <img src="img6.png" /> 
 </div>
 
 
