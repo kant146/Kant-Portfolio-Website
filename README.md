@@ -1,4 +1,4 @@
-## 🚀 Project Name : Portfolio Website
+## 🚀 Project Name : Kant Portfolio Website
 
 
 ## 🧰 Tecnology Utilized
