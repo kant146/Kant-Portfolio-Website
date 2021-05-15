@@ -20,17 +20,17 @@ Website: https://kant146.wordpress.com/   <br/>
 ## 🖼️ Images of Project
 
 <div align="center">
-   <img src="img1.png" /> 
+   <a href="https://kant146.github.io/Kant-Portfolio-Website/"><img src="img1.png" /> </a>
    </br>
-   <img src="img2.png"/>
+   <a href="https://kant146.github.io/Kant-Portfolio-Website/"><img src="img2.png"/></a>
    </br> 
-   <img src="img3.png" /> 
+   <a href="https://kant146.github.io/Kant-Portfolio-Website/"><img src="img3.png" /> </a>
    </br>
-   <img src="img4.png" /> 
+   <a href="https://kant146.github.io/Kant-Portfolio-Website/"><img src="img4.png" /> </a>
    </br>
-   <img src="img5.png" />  
+   <a href="https://kant146.github.io/Kant-Portfolio-Website/"><img src="img5.png" />  </a>
    </br> 
-   <img src="img6.png" /> 
+   <a href="https://kant146.github.io/Kant-Portfolio-Website/"><img src="img6.png" /> </a>
 </div>
 
 
