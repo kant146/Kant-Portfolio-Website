@@ -12,10 +12,10 @@
 
  Source Code: https://github.com/kant146/Kant-Portfolio-Website
 
-Instagram: https://www.instagram.com/kant_146/
-Github: https://github.com/kant146
-Facebook: https://www.facebook.com/omgkant.146/
-Website: https://kant146.wordpress.com/
+Instagram: https://www.instagram.com/kant_146/ <br/>
+Github: https://github.com/kant146   <br/>
+Facebook: https://www.facebook.com/omgkant.146/  <br/>
+Website: https://kant146.wordpress.com/   <br/>
 
 ## 🖼️ Images of Project
 
