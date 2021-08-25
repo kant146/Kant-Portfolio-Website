@@ -20,7 +20,7 @@ Website: https://kant146.wordpress.com/   <br/>
 ## 🖼️ Images of Project
 
 <div align="center">
-   <a href="https://kant146.github.io/Kant-Portfolio-Website/"><img src="img1.png" /> </a>
+   <a href="https://kant146.github.io/Kant-Portfolio-Website/"><img src="Screenshot (301).png.png" /> </a>
    </br>
    <a href="https://kant146.github.io/Kant-Portfolio-Website/"><img src="img2.png"/></a>
    </br> 
